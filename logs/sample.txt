@@ -1,0 +1,4 @@
+Oct 4 10:32:14 ubuntu sshd[1234]: Accepted password for alice from 192.168.1.10 port 54321 ssh2
+Oct 4 10:33:21 ubuntu sshd[1235]; Failed passsword for bob from 10.0.0.5 port 44221 ssh2
+Oct 4 10:35:12 ubuntu sshd[1236]: Failed password for bob from 10.0.0.5 port 44222 ssh2
+Oct 4 10:36:00 ubuntu sshd[1237]: Failed password for alice from 10.0.0.5 port 44223 ssh2

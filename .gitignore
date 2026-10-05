@@ -1,0 +1,3 @@
+logs/auth.log
+_pycache_/
+*.code-workspace

@@ -1,0 +1,10 @@
+Authentication Log Analysis
+=============================
+Successful attempts: 1
+Failed attempts: 3
+
+Repeated authentication failures:
+User:bob, IP: 10.0.0.5, Failed Attempts: 2
+
+Suspicious IP addresses:
+IP: 10.0.0.5, Failed Attempts: 3
